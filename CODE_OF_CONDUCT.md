@@ -61,7 +61,7 @@ appointed representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement via a private
-[GitHub security advisory](https://github.com/Laaaaksh/pilestack/security/advisories/new)
+[GitHub security advisory](https://github.com/attentionfs/pilestack/security/advisories/new)
 or by contacting the maintainer directly. All complaints will be reviewed and
 investigated promptly and fairly.
 

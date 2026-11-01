@@ -9,11 +9,11 @@ one screen to review the whole stack — cross-PR comment threads, live
 CI/review status per PR — and a one-click restack that's just real `git
 rebase` with a confirmation step, not a reimplementation of one.
 
-[![Star this repo](https://img.shields.io/github/stars/Laaaaksh/pilestack?style=for-the-badge&logo=github&label=star%20this%20repo&color=yellow)](https://github.com/Laaaaksh/pilestack/stargazers)
+[![Star this repo](https://img.shields.io/github/stars/attentionfs/pilestack?style=for-the-badge&logo=github&label=star%20this%20repo&color=yellow)](https://github.com/attentionfs/pilestack/stargazers)
 [![Built for GitHub](https://img.shields.io/badge/built_for-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
-[![CI](https://github.com/Laaaaksh/pilestack/actions/workflows/ci.yml/badge.svg)](https://github.com/Laaaaksh/pilestack/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/Laaaaksh/pilestack?color=green&display_name=tag)](https://github.com/Laaaaksh/pilestack/releases)
+[![CI](https://github.com/attentionfs/pilestack/actions/workflows/ci.yml/badge.svg)](https://github.com/attentionfs/pilestack/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/attentionfs/pilestack?color=green&display_name=tag)](https://github.com/attentionfs/pilestack/releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
 [![Node](https://img.shields.io/badge/node-20%2B-339933?logo=node.js&logoColor=white)](package.json)
 
@@ -97,7 +97,7 @@ OAuth Apps → New OAuth App**, set the callback URL to
 **Docker Compose (recommended):**
 
 ```bash
-git clone https://github.com/Laaaaksh/pilestack.git
+git clone https://github.com/attentionfs/pilestack.git
 cd pilestack
 cp .env.example .env   # fill in the values from steps 1–2
 docker compose up -d
@@ -111,7 +111,7 @@ until then, use the command above as shown.
 **From source:**
 
 ```bash
-git clone https://github.com/Laaaaksh/pilestack.git
+git clone https://github.com/attentionfs/pilestack.git
 cd pilestack
 pnpm install
 cp .env.example .env   # fill in the values from steps 1–2
@@ -187,7 +187,7 @@ See [SECURITY.md](SECURITY.md) for how to report a vulnerability privately.
 
 ## Star this repo
 
-If Pilestack is useful to you, [starring it](https://github.com/Laaaaksh/pilestack/stargazers)
+If Pilestack is useful to you, [starring it](https://github.com/attentionfs/pilestack/stargazers)
 helps other teams paying for the same thing find it.
 
 ## License
